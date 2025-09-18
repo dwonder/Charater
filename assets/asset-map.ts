@@ -5,7 +5,7 @@ export const animalImageMap: Record<string, string> = {
   'Dog': 'assets/dog1.png',
   'Elephant': 'assets/elephant.jpg',
   'Arctic Wolf': 'assets/artic.jpg', // Image not provided in collage
-  'Dove': 'assets/placeholder.jpg',      // Image not provided in collage
+  'Dove': 'assets/dove.jpg',      // Image not provided in collage
   'Dolphin': 'assets/dolphin.png',
   'Eagle': 'assets/eagle.png',
   'Fox': 'assets/Fox.png',
