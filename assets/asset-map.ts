@@ -2,15 +2,15 @@
 // Please create an 'assets' folder and add the corresponding images with these exact filenames.
 
 export const animalImageMap: Record<string, string> = {
-  'Dog': 'assets/dog1.png',
+  'Dog': 'assets/german-shepherd.jpg',
   'Elephant': 'assets/elephant.jpg',
-  'Arctic Wolf': 'assets/artic.jpg', // Image not provided in collage
-  'Dove': 'assets/dove.jpg',      // Image not provided in collage
-  'Dolphin': 'assets/dolphin.png',
-  'Eagle': 'assets/eagle.png',
-  'Fox': 'assets/Fox.png',
-  'Octopus': 'assets/octopus.png',   // Image not provided in collage
-  'Cat': 'assets/cat.png',           // Using cheetah image for 'Cat' persona
-  'Sea Turtle': 'assets/Sea_Turtle.png',
-  'Owl': 'assets/owl.png',
+  'Arctic Wolf': 'assets/placeholder.jpg', // Image not provided in collage
+  'Dove': 'assets/placeholder.jpg',      // Image not provided in collage
+  'Dolphin': 'assets/dolphin.jpg',
+  'Eagle': 'assets/eagle.jpg',
+  'Fox': 'assets/fox.jpg',
+  'Octopus': 'assets/placeholder.jpg',   // Image not provided in collage
+  'Cat': 'assets/cheetah.jpg',           // Using cheetah image for 'Cat' persona
+  'Sea Turtle': 'assets/sea-turtle.jpg',
+  'Owl': 'assets/owl.jpg',
 };
